@@ -17,6 +17,9 @@ Running that command should output the address where you're hosting the site loc
 
 `localhost:4000` (or whatever the address is).  Refresh and voila.
 
+To render any drafts in the draft folder, add the --draft flag:
+
+`jekyll serve --draft`
 
 
  You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
