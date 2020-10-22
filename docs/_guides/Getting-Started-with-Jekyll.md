@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Using Jeykll
+title: Getting Started with Jeykll
 description: Basic Jekyll How-Tos
 order: 1
 ---
