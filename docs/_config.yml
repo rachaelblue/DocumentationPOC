@@ -48,6 +48,7 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: pixeldroid/programming-pages
+theme: programming-pages
 
 
 # Exclude from processing.
