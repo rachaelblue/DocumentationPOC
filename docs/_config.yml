@@ -30,6 +30,11 @@ collections:
     peramlink: "/:collection/:path/"
     title: Guides
     tab-order: 1
+  widgets:
+    output: true
+    permalink: "/:collection/:path/"
+    title: Widgets
+    tab-order: 2
 
 description: >- # this means to ignore newlines until "baseurl:"
   The goal of DocPOC is to test out GithubPages and Jekyll as a way to create 

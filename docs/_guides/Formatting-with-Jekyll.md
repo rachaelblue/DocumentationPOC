@@ -17,19 +17,5 @@ order: 2
 #### markdown
 {:.ui.attached.tertiary.inverted.tight.grey.segment}
 
-<div>
-    {% raw %}{% include collapsible_example.liquid file='snippets/hello_world.cpp' %}{% endraw %}
-</div>
-{:.ui.attached.secondary.tight.segment}
 
 <br>
-
-#### result
-{:.ui.attached.secondary.inverted.tight.blue.segment}
-
-{::options parse_block_html="false" /}
-<div>
-{% include collapsible_example.liquid file='snippets/hello_world.cpp' %}
-</div>
-{:.ui.attached.secondary.segment}
-{::options parse_block_html="true" /}
